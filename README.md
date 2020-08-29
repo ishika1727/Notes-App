@@ -1,4 +1,4 @@
-# To-Do-App
+# Notes-App
 Learning NodeJS
 
 ## To Run:
@@ -10,11 +10,11 @@ Learning NodeJS
 
 ### To add task:
 
-`node app.js add --title="<task title>" --body="<task desp>"`
+`node app.js add --title="<note title>" --body="<note desp>"`
 
 ### To remove task:
 
-`node app.js remove --title="<task title>"`
+`node app.js remove --title="<note title>"`
 
 ### To list all tasks:
 
@@ -22,4 +22,4 @@ Learning NodeJS
 
 ### To read a particular task:
 
-`node app.js read --title="<task title>"`
+`node app.js read --title="<note title>"`
