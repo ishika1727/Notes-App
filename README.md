@@ -1,5 +1,6 @@
 # Notes-App
 Learning NodeJS
+(Now learnt)
 
 ## To Run:
 
